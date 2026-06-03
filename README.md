@@ -26,16 +26,17 @@ The paper is available at: https://www.sciencedirect.com/science/article/abs/pii
 If you use this work, please cite:
 
 ```bibtex
-@article{AKHTER2026129516,
+@article{SAMAD2026115636,
   title = {Imputation-free learning of tabular data with missing values using incremental feature partitions in transformer},
   journal = {Applied Soft Computing},
-  pages = {129516},
+  pages = {115636},
   year = {2026},
   issn = {1568-4946},
-  doi = {https://doi.org/10.1016/j.asoc.2026.129516},
+  doi = {https://doi.org/10.1016/j.asoc.2026.115636},
   url = {https://www.sciencedirect.com/science/article/pii/S1568494626010847},
-  author = {Kazi Fuad Bin Akhter and Md. Shihab Uddin and M. Shamim Kaiser and Mufti Mahmud and Ahmed E. Hassan and Mohammad M. Dehzangi},
-  keywords = {Missing value, Imputation free, Feature increment, Tabular data, Attention mask, Transformer}
+  author = {Manar D. Samad and Kazi F. Akhter and Shourav B. Rabbani and Ibna Kowsar},
+  keywords = {Missing values, Data quality, Attention, Incremental learning, Imputation, Deep learning}
+}
 }
 ```
 
